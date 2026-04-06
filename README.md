@@ -7,7 +7,16 @@
 </div>
 <br>
 
-<h2>My Certifications&nbsp; <a href="https://www.credly.com/users/doanvinhphu" style="display: inline-flex; align-items: center;"><img src="./credly-logo.svg" width="48px" style="margin-right: 16px;"></a></h2>
+<h2>About Me</h2>
+<p align="left">
+  Hi there! I'm Trịnh Lê Nguyên Vũ, a full-stack developer based in Vietnam. I specialize in creating fast, responsive websites with a focus on user experience. I'm passionate about web development and love to create websites that are not only visually appealing but also highly functional.
+
+I participated in IT Contests in middle school, high school, and ICPC in college. Currently, I am studying in HCMUS in my final year. My GPA is 7.96. Most of my programming skills are self-taught because that's my school's motto.
+
+I'm currently looking for internships so that I can earn experience, skills, knowledge, and a good resume (if possible, some pocket money so I can start becoming less of a burden for my parents).
+</p>
+
+<h2>My Certifications</h2>
 <p align="left">
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/f0c74e206357411bb05dff111de6452e"><img src="./aws-certified-solutions-architect-associate.png" width="14%"/></a>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/46a217bc49934cd2a8b58ac56e28945e"><img src="./aws-certified-cloud-practitioner.png" width="14%"/></a>
