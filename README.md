@@ -5,7 +5,20 @@
 <div align="center">
   <img height="900" width="940" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
-<br>
+<!-- <br> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LEMON-164/LEMON-164/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LEMON-164/LEMON-164/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LEMON-164/LEMON-164/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LEMON-164.LEMON-164&"  />
+</div>
+
+###
 
 <h2>About Me</h2>
 <p align="left">
