@@ -11,6 +11,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LEMON-164/LEMON-164/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LEMON-164/LEMON-164/output/pacman-contribution-graph.svg">
 </picture>
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LEMON-164.LEMON-164&"  />
+</div>
+<br>
 
 <h2>About Me</h2>
 <p align="left">
