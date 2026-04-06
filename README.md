@@ -33,7 +33,6 @@ I'm currently looking for internships so that I can earn experience, skills, kno
 <p>🇬🇧 TOEIC 700</p></p>
 <p>🇻🇳 Native</p>
 
-<br>
 <h2>My Tech Stacks</h2>
 
 ### Backend
