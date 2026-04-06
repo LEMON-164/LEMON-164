@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=DFF73F&width=435&lines=Welcome+to+my+Github+Profile;It's+an+honor+to+have+you+here.;Have+a+good+day)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="500" width="640" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img height="900" width="940" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 <br>
 
