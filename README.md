@@ -1,6 +1,6 @@
 ### 🌐 Software engineer.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=DFF73F&width=435&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=DFF73F&width=435&lines=Welcome+to+my+Github+Profile;It's+an+honor+to+have+you+here.;Have+a+good+day)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="320" width="640" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
