@@ -27,6 +27,7 @@ I'm currently looking for internships so that I can earn experience, skills, kno
 ### Backend
 <p align="left">
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net"/></a>
   <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/></a>
 </p>
 
