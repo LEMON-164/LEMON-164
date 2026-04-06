@@ -26,8 +26,14 @@ I previously interned at FPT Software and worked on several real-world projects 
 
 I'm currently looking for internships so that I can earn experience, skills, knowledge, and a good resume (if possible, some pocket money so I can start becoming less of a burden for my parents).
 </p>
+
 <br>
 
+<h2>My Language</h2>
+<p>🇬🇧 TOEIC 700</p></p>
+<p>🇻🇳 Native</p>
+
+<br>
 <h2>My Tech Stacks</h2>
 
 ### Backend
